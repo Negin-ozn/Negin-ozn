@@ -1,7 +1,7 @@
 # 🌸 Hey there, I'm Negin!
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E8A0BF,50:F4C2D7,100:FFE4EC&height=210&section=header&text=Negin&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Software%20Engineer&descAlignY=58&descSize=18" width="100%" />
+  <img src="./assets/negin-github-tech-banner.png" width="100%" alt="Negin - Senior Software Engineer" />
 </p>
 
 <p align="center">
@@ -69,16 +69,19 @@ I enjoy turning complex requirements into clean, maintainable solutions and crea
 ## 🛠️ Tech Stack
 
 ### Frontend & Mobile
+
 <p>
   <img src="https://skillicons.dev/icons?i=react,reactnative,nextjs,ts,js,html,css,tailwind" />
 </p>
 
 ### State Management & Data
+
 <p>
-  <img src="https://skillicons.dev/icons?i=redux,postgres" />
+  <img src="https://skillicons.dev/icons?i=redux,postgres,zustand,firebase,mongodb" />
 </p>
 
 ### Tools & Workflow
+
 <p>
   <img src="https://skillicons.dev/icons?i=docker,git,github,jest,vscode" />
 </p>
