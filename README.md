@@ -1,4 +1,4 @@
-# 🌸 Hey there, I'm Negin!
+# Hey there, I'm Negin!
 
 <p align="center">
   <img src="./assets/negin-github-tech-banner.png" width="100%" alt="Negin" />
@@ -23,23 +23,23 @@
 
 ---
 
-## 💗 About Me
+## About Me
 
 I'm a **Senior Software Engineer** with 5+ years of experience building modern, scalable, and user-focused web and mobile applications.
 
 I enjoy turning complex requirements into clean, maintainable solutions and creating intuitive experiences across mobile and web platforms.
 
-- 👩🏻‍💻 Senior Software Engineer
-- 📱 Focused on React Native and cross-platform mobile development
-- 🌐 Building modern web applications with React and Next.js
-- 🧩 Passionate about clean code and scalable architecture
-- 🗄️ Experienced with REST APIs, PostgreSQL, and Drizzle ORM
-- 🐳 Familiar with Docker and modern development workflows
-- 🌱 Always learning, improving, and exploring new technologies
+- Senior Software Engineer
+- Focused on React Native and cross-platform mobile development
+- Building modern web applications with React and Next.js
+- Passionate about clean code and scalable architecture
+- Experienced with REST APIs, PostgreSQL, and Drizzle ORM
+- Familiar with Docker and modern development workflows
+- Always learning, improving, and exploring new technologies
 
 ---
 
-## 🎀 What I Build
+## What I Build
 
 <table>
   <tr>
@@ -66,7 +66,7 @@ I enjoy turning complex requirements into clean, maintainable solutions and crea
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend & Mobile
 
@@ -93,7 +93,7 @@ I enjoy turning complex requirements into clean, maintainable solutions and crea
 
 ---
 
-## 🌷 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Negin-ozn&hide_border=true&background=FFF5F8&ring=E8A0BF&fire=C76B91&currStreakLabel=C76B91&sideLabels=C76B91&currStreakNum=7A5263&sideNums=7A5263&dates=B98DA0" width="75%" />
@@ -119,7 +119,7 @@ I enjoy turning complex requirements into clean, maintainable solutions and crea
 
 ---
 
-## 🐍 My Contribution Journey
+## My Contribution Journey
 
 <p align="center">
   <picture>
@@ -131,7 +131,7 @@ I enjoy turning complex requirements into clean, maintainable solutions and crea
 
 ---
 
-## 🌸 Let's Connect
+## Let's Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/neginozn">
@@ -143,7 +143,7 @@ I enjoy turning complex requirements into clean, maintainable solutions and crea
 </p>
 
 <p align="center">
-  <i>✨ Building meaningful experiences, one line of code at a time. 💗</i>
+  <i>Building meaningful experiences, one line of code at a time. 💗</i>
 </p>
 
 <p align="center">
