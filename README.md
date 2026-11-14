@@ -143,7 +143,7 @@ I enjoy turning complex requirements into clean, maintainable solutions and crea
 </p>
 
 <p align="center">
-  <i>Building meaningful experiences, one line of code at a time. 💗</i>
+  <i>Building meaningful experiences, one line of code at a time.</i>
 </p>
 
 <p align="center">
