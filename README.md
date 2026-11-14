@@ -50,9 +50,6 @@ I'm a Senior Software Engineer with 5+ years of experience building scalable, mo
 
 ## 🌷 GitHub Analytics
 
-
-## 🌷 GitHub Analytics
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Negin-ozn/Negin-ozn/stats/profile-summary-card-output/radical/0-profile-details.svg" width="100%" />
 </p>
