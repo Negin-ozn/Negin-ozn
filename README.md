@@ -1,7 +1,11 @@
 # 🌸 Hey there, I'm Negin!
 
 <p align="center">
-  <img src="./assets/negin-github-tech-banner.png" width="100%" alt="Negin - Senior Software Engineer" />
+  <img
+    src="./assets/negin-github-tech-banner.png"
+    width="100%"
+    alt="Negin - Senior Software Engineer"
+  />
 </p>
 
 <p align="center">
