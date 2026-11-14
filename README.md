@@ -71,14 +71,17 @@ I enjoy turning complex requirements into clean, maintainable solutions and crea
 ### Frontend & Mobile
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,reactnative,nextjs,ts,js,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
 ### State Management & Data
 
 <p>
-  <img src="https://skillicons.dev/icons?i=redux,postgres,zustand,firebase,mongodb" />
+  <img src="https://skillicons.dev/icons?i=redux,postgres,firebase,mongodb" />
+  <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white" />
 </p>
+
 
 ### Tools & Workflow
 
