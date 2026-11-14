@@ -50,9 +50,21 @@ I'm a Senior Software Engineer with 5+ years of experience building scalable, mo
 
 ## 🌷 GitHub Analytics
 
+
+## 🌷 GitHub Analytics
+
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Negin-ozn&show_icons=true&hide_border=true&bg_color=FFF5F8&title_color=C76B91&text_color=7A5263&icon_color=E8A0BF" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Negin-ozn&layout=compact&hide_border=true&bg_color=FFF5F8&title_color=C76B91&text_color=7A5263" />
+  <img src="https://raw.githubusercontent.com/Negin-ozn/Negin-ozn/stats/profile-summary-card-output/radical/0-profile-details.svg" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Negin-ozn/Negin-ozn/stats/profile-summary-card-output/radical/3-stats.svg" width="49%" />
+  <img src="https://raw.githubusercontent.com/Negin-ozn/Negin-ozn/stats/profile-summary-card-output/radical/1-repos-per-language.svg" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Negin-ozn/Negin-ozn/stats/profile-summary-card-output/radical/2-most-commit-language.svg" width="49%" />
+  <img src="https://raw.githubusercontent.com/Negin-ozn/Negin-ozn/stats/profile-summary-card-output/radical/4-productive-time.svg" width="49%" />
 </p>
 
 <p align="center">
