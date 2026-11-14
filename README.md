@@ -137,7 +137,7 @@ I enjoy turning complex requirements into clean, maintainable solutions and crea
   <a href="https://linkedin.com/in/neginozn">
     <img src="https://img.shields.io/badge/LinkedIn-E8A0BF?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:neginozn@gmail.com">
     <img src="https://img.shields.io/badge/Email-F4C2D7?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
