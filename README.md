@@ -5,20 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=600&size=22&duration=3000&pause=1000&color=E8A0BF&center=true&vCenter=true&width=650&lines=Senior+Software+Engineer;React+%26+React+Native+Developer;Next.js+%26+TypeScript+Enthusiast;Building+Scalable+Digital+Experiences+%F0%9F%92%97" />
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/neginozn">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-E8A0BF?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Negin-ozn">
-    <img src="https://img.shields.io/badge/GitHub-Follow-F4C2D7?style=for-the-badge&logo=github&logoColor=333333" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Negin-ozn&label=Profile%20Views&color=E8A0BF&style=flat-square" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Senior+Software+Engineer;React+%26+React+Native+Developer;Next.js+%26+TypeScript+Enthusiast;Building+Scalable+Digital+Experiences+%F0%9F%92%9C" />
 </p>
 
 ---
@@ -79,9 +66,8 @@ I enjoy turning complex requirements into clean, maintainable solutions and crea
 
 <p>
   <img src="https://skillicons.dev/icons?i=redux,postgres,firebase,mongodb" />
-  <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zustand-6D5A9E?style=for-the-badge&logo=react&logoColor=white" />
 </p>
-
 
 ### Tools & Workflow
 
@@ -96,7 +82,7 @@ I enjoy turning complex requirements into clean, maintainable solutions and crea
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Negin-ozn&hide_border=true&background=FFF5F8&ring=E8A0BF&fire=C76B91&currStreakLabel=C76B91&sideLabels=C76B91&currStreakNum=7A5263&sideNums=7A5263&dates=B98DA0" width="75%" />
+  <img src="https://streak-stats.demolab.com?user=Negin-ozn&hide_border=true&background=F5F3FF&ring=8B5CF6&fire=7C3AED&currStreakLabel=7C3AED&sideLabels=7C3AED&currStreakNum=4C1D95&sideNums=4C1D95&dates=A78BFA" width="75%" />
 </p>
 
 <!-- Enable these cards after the Summary Cards workflow successfully publishes the stats branch.
@@ -135,10 +121,10 @@ I enjoy turning complex requirements into clean, maintainable solutions and crea
 
 <p align="center">
   <a href="https://linkedin.com/in/neginozn">
-    <img src="https://img.shields.io/badge/LinkedIn-E8A0BF?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:neginozn@gmail.com">
-    <img src="https://img.shields.io/badge/Email-F4C2D7?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-A78BFA?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -147,5 +133,5 @@ I enjoy turning complex requirements into clean, maintainable solutions and crea
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFE4EC,100:E8A0BF&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DDD6FE,100:8B5CF6&height=120&section=footer" width="100%" />
 </p>
