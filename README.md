@@ -8,6 +8,19 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Senior+Software+Engineer;React+%26+React+Native+Developer;Next.js+%26+TypeScript+Enthusiast;Building+Scalable+Digital+Experiences+%F0%9F%92%9C" />
 </p>
 
+<p align="center">
+  <a href="https://linkedin.com/in/neginozn">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Negin-ozn">
+    <img src="https://img.shields.io/badge/GitHub-Follow-C4B5FD?style=for-the-badge&logo=github&logoColor=312E81" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Negin-ozn&label=Profile%20Views&color=8B5CF6&style=flat-square" />
+</p>
+
 ---
 
 ## About Me
