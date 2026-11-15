@@ -1,7 +1,7 @@
 # Hey there, I'm Negin!
 
 <p align="center">
-  <img src="./assets/negin-github-tech-banner.png" width="100%" alt="Negin" />
+  <img src="./assets/negin-github-tech-banner.jpeg" width="100%" alt="Negin" />
 </p>
 
 <p align="center">
